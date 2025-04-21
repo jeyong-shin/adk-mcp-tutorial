@@ -1,6 +1,6 @@
-# Google ADK MCP (Model Control Protocol) 사용 예시
+# Google ADK MCP (Model Context Protocol) Tutorial
 
-이 저장소는 Google ADK(Agents Development Kit)에서 MCP(Model Control Protocol)를 사용하는 두 가지 예시를 포함하고 있습니다.
+이 저장소는 Google ADK(Agent Development Kit)에서 MCP(Model Context Protocol)를 사용하는 두 가지 예시를 포함하고 있습니다.
 
 ## 개요
 
