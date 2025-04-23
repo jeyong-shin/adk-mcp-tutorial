@@ -25,8 +25,9 @@
 ### 필수 요구사항
 
 - Python 3.9+
-- UV
-- Google ADK 계정 및 API 키
+- uv
+- Google API 키
+- Anthropic API 키
 - Blender (mcp_blender 예시용)
 - Obsidian (mcp_obsidian 예시용)
 
